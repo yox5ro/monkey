@@ -10,3 +10,9 @@ Implementation of Monkey language on [Writing An Interpreter in Go](https://inte
 $ go version
 go version go1.22.4 linux/amd64
 ```
+
+## Testing
+
+```
+$ go test ./...
+```
