@@ -16,3 +16,9 @@ go version go1.22.4 linux/amd64
 ```
 $ go test ./...
 ```
+
+## Formatting
+
+```
+$ golangci-lint run ./... --fix
+```

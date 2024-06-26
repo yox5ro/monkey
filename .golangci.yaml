@@ -1,0 +1,6 @@
+linters:
+  enable:
+    - gofmt
+
+run:
+    go: 1.22
